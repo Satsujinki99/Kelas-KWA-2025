@@ -12,4 +12,6 @@ https://www.invicti.com/blog/web-security/sql-injection-cheat-sheet/
 3. Coba untuk add produk apa saja ke basket, lalu send ke repeater, karena saya gagal terus pakai burpsuite jadi saya ngide pakai postman agar berhasil.
    <img width="1439" height="856" alt="image" src="https://github.com/user-attachments/assets/219e49d0-1b18-4950-8f0e-ab5ee501752a" />
 <img width="1439" height="856" alt="image" src="https://github.com/user-attachments/assets/7285afd7-e3a2-48ee-9928-9997a7ff1704" />
-![Uploading image.png…]()
+<img width="1439" height="856" alt="image" src="https://github.com/user-attachments/assets/1deb2804-dc27-4600-aa10-336c692699f8" />
+
+
